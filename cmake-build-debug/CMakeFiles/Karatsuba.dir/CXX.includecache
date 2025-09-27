@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ignal/CLionProjects/Karatsuba/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+sstream
+-
+iterator
+-
+string
+-
+cstdio
+-
+cstring
+-
+
